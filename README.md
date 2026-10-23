@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Limon 👋
 
-<!--
-**limonlpf/limonlpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Growth Partner** from Bangladesh. I help businesses grow with
+data-driven ads, accurate tracking, and smart automation.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- 📈 Meta & Google Ads
+- 🎯 Server-Side Tracking (GTM, Meta CAPI, GA4)
+- 🌐 WordPress & E-commerce Development
+- ✉️ HTML Email Design
+- 🤖 AI Agents, Chatbots & Workflow Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Featured
+- [AverZone](https://averzone.com/) — E-commerce platform
+
+## 📫 Let's connect
+🌐 [limonlpf.com](https://limonlpf.com) · 📘 [Facebook](https://facebook.com/limonlpf)
